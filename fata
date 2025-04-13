@@ -1,0 +1,1128 @@
+{
+  "type": "FeatureCollection",
+  "name": "KOORDINAT",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5929361,
+        "Lintang": -7.2759194,
+        "Foto": 1,
+        "link": "https://simpan.ugm.ac.id/s/ih5w5ATj2ThhZvl/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5929361,
+          -7.2759194,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5929361,
+        "Lintang": -7.2759194,
+        "Foto": 2,
+        "link": "https://simpan.ugm.ac.id/s/3CSYKahPgyA7EM7/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5929361,
+          -7.2759194,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5929361,
+        "Lintang": -7.2759194,
+        "Foto": 3,
+        "link": "https://simpan.ugm.ac.id/s/6WyDP66wF0GarOb/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5929361,
+          -7.2759194,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5926778,
+        "Lintang": -7.2755889,
+        "Foto": 4,
+        "link": "https://simpan.ugm.ac.id/s/B8YwYy9vXqkTIPu/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5926778,
+          -7.2755889,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5926778,
+        "Lintang": -7.2755889,
+        "Foto": 5,
+        "link": "https://simpan.ugm.ac.id/s/i79aFVWdZPmAiLq/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5926778,
+          -7.2755889,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6032972,
+        "Lintang": -7.2654444,
+        "Foto": 6,
+        "link": "https://simpan.ugm.ac.id/s/KLOQlepcSJkymcL/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6032972,
+          -7.2654444,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6032972,
+        "Lintang": -7.2654444,
+        "Foto": 7,
+        "link": "https://simpan.ugm.ac.id/s/r89rvuQHhaSfbgh/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6032972,
+          -7.2654444,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6032972,
+        "Lintang": -7.2654444,
+        "Foto": 8,
+        "link": "https://simpan.ugm.ac.id/s/vErqacqYYVEYNHk/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6032972,
+          -7.2654444,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6032972,
+        "Lintang": -7.2654444,
+        "Foto": 9,
+        "link": "https://simpan.ugm.ac.id/s/6peZseMYA68G4wm/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6032972,
+          -7.2654444,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5987306,
+        "Lintang": -7.2719583,
+        "Foto": 10,
+        "link": "https://simpan.ugm.ac.id/s/qwgTLlGpCkb8LUu/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5987306,
+          -7.2719583,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6689028,
+        "Lintang": -7.1874778,
+        "Foto": 11,
+        "link": "https://simpan.ugm.ac.id/s/NoBxTz32gO38Flm/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6689028,
+          -7.1874778,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6689028,
+        "Lintang": -7.1874778,
+        "Foto": 12,
+        "link": "https://simpan.ugm.ac.id/s/we76GWpP1n1fCFG/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6689028,
+          -7.1874778,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6779139,
+        "Lintang": -7.1887694,
+        "Foto": 13,
+        "link": "https://simpan.ugm.ac.id/s/C6Qy4aoniaHFadv/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6779139,
+          -7.1887694,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6779139,
+        "Lintang": -7.1887694,
+        "Foto": 14,
+        "link": "https://simpan.ugm.ac.id/s/mZxO1GrahIOWy2G/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6779139,
+          -7.1887694,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6779139,
+        "Lintang": -7.1887694,
+        "Foto": 15,
+        "link": "https://simpan.ugm.ac.id/s/juAHo9dFPM1KSof/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6779139,
+          -7.1887694,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6719611,
+        "Lintang": -7.1996444,
+        "Foto": 16,
+        "link": "https://simpan.ugm.ac.id/s/vTT3OatU6UlUiLs/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6719611,
+          -7.1996444,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6719611,
+        "Lintang": -7.1996444,
+        "Foto": 17,
+        "link": "https://simpan.ugm.ac.id/s/3HwZOW84cRAcCwU/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6719611,
+          -7.1996444,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6719611,
+        "Lintang": -7.1996444,
+        "Foto": 18,
+        "link": "https://simpan.ugm.ac.id/s/bj6zG7TKgMQkayS/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6719611,
+          -7.1996444,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6719611,
+        "Lintang": -7.1996444,
+        "Foto": 19,
+        "link": "https://simpan.ugm.ac.id/s/n59LA7FNEEJFw1c/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6719611,
+          -7.1996444,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6669333,
+        "Lintang": -7.2139889,
+        "Foto": 20,
+        "link": "https://simpan.ugm.ac.id/s/HJqy1L3aCfP7HSF/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6669333,
+          -7.2139889,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6669333,
+        "Lintang": -7.2139889,
+        "Foto": 21,
+        "link": "https://simpan.ugm.ac.id/s/sdLVPKIPBMRHiQw/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6669333,
+          -7.2139889,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6786972,
+        "Lintang": -7.2024667,
+        "Foto": 22,
+        "link": "https://simpan.ugm.ac.id/s/704ecoZ5LuPUJ5G/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6786972,
+          -7.2024667,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6786972,
+        "Lintang": -7.2024667,
+        "Foto": 23,
+        "link": "https://simpan.ugm.ac.id/s/TbphpuF8EVOWa2j/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6786972,
+          -7.2024667,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6460444,
+        "Lintang": -7.2124083,
+        "Foto": 24,
+        "link": "https://simpan.ugm.ac.id/s/o7vZF6jPHfLNmo7/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6460444,
+          -7.2124083,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6460444,
+        "Lintang": -7.2124083,
+        "Foto": 25,
+        "link": "https://simpan.ugm.ac.id/s/XFusD2h58ORuw0f/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6460444,
+          -7.2124083,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6460444,
+        "Lintang": -7.2124083,
+        "Foto": 26,
+        "link": "https://simpan.ugm.ac.id/s/9DaHYP6nWkWS8dE/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6460444,
+          -7.2124083,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6719611,
+        "Lintang": -7.1996444,
+        "Foto": 27,
+        "link": "https://simpan.ugm.ac.id/s/4KbeGioLq8sjhTp/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6719611,
+          -7.1996444,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6719611,
+        "Lintang": -7.1996444,
+        "Foto": 28,
+        "link": "https://simpan.ugm.ac.id/s/qDYp2sSrdoUBzAx/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6719611,
+          -7.1996444,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6501861,
+        "Lintang": -7.2189944,
+        "Foto": 29,
+        "link": "https://simpan.ugm.ac.id/s/hz1nNOQQZzjRYgQ/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6501861,
+          -7.2189944,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6247389,
+        "Lintang": -7.2110222,
+        "Foto": 30,
+        "link": "https://simpan.ugm.ac.id/s/DrHYjA5ArTje2pL/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6247389,
+          -7.2110222,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6247389,
+        "Lintang": -7.2110222,
+        "Foto": 31,
+        "link": "https://simpan.ugm.ac.id/s/fJ89USrAWdgytLZ/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6247389,
+          -7.2110222,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6247389,
+        "Lintang": -7.2110222,
+        "Foto": 32,
+        "link": "https://simpan.ugm.ac.id/s/MnniLWBI1FFErnW/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6247389,
+          -7.2110222,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6331583,
+        "Lintang": -7.219525,
+        "Foto": 33,
+        "link": "https://simpan.ugm.ac.id/s/3p370nyA2qGMq17/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6331583,
+          -7.219525,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6331583,
+        "Lintang": -7.219525,
+        "Foto": 34,
+        "link": "https://simpan.ugm.ac.id/s/BoWk3u6QKnqMzpu/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6331583,
+          -7.219525,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.6331583,
+        "Lintang": -7.219525,
+        "Foto": 35,
+        "link": "https://simpan.ugm.ac.id/s/XywQWLc1XAPDPOh/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.6331583,
+          -7.219525,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5801861,
+        "Lintang": -7.2272083,
+        "Foto": 36,
+        "link": "https://simpan.ugm.ac.id/s/Zp726b27NEwGGet/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5801861,
+          -7.2272083,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5801861,
+        "Lintang": -7.2272083,
+        "Foto": 37,
+        "link": "https://simpan.ugm.ac.id/s/sdxyv9fUTFVDHfP/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5801861,
+          -7.2272083,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5801861,
+        "Lintang": -7.2272083,
+        "Foto": 38,
+        "link": "https://simpan.ugm.ac.id/s/Kk9yLd1u99bdkF2/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5801861,
+          -7.2272083,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5799,
+        "Lintang": -7.2259528,
+        "Foto": 39,
+        "link": "https://simpan.ugm.ac.id/s/h20Xjzl4sfW56vl/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5799,
+          -7.2259528,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5799,
+        "Lintang": -7.2259528,
+        "Foto": 40,
+        "link": "https://simpan.ugm.ac.id/s/2Hp92tWjD7S9lYG/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5799,
+          -7.2259528,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5730361,
+        "Lintang": -7.2228028,
+        "Foto": 41,
+        "link": "https://simpan.ugm.ac.id/s/CbX8mPg4cWRHeXt/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5730361,
+          -7.2228028,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5730361,
+        "Lintang": -7.2228028,
+        "Foto": 42,
+        "link": "https://simpan.ugm.ac.id/s/mu0Ir4t4q7zhVJR/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5730361,
+          -7.2228028,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5730361,
+        "Lintang": -7.2228028,
+        "Foto": 43,
+        "link": "https://simpan.ugm.ac.id/s/iNNrCfNBUznsFUw/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5730361,
+          -7.2228028,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5730361,
+        "Lintang": -7.2228028,
+        "Foto": 44,
+        "link": "https://simpan.ugm.ac.id/s/Bq0OihzHipN48Ul/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5730361,
+          -7.2228028,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5771389,
+        "Lintang": -7.2281083,
+        "Foto": 45,
+        "link": "https://simpan.ugm.ac.id/s/4LPwJVACjn0ZlgM/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5771389,
+          -7.2281083,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5771389,
+        "Lintang": -7.2281083,
+        "Foto": 46,
+        "link": "https://simpan.ugm.ac.id/s/tDoKTWb0lWu732E/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5771389,
+          -7.2281083,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5771389,
+        "Lintang": -7.2281083,
+        "Foto": 47,
+        "link": "https://simpan.ugm.ac.id/s/eriaPgklPWYTgRv/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5771389,
+          -7.2281083,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5742861,
+        "Lintang": -7.2316,
+        "Foto": 48,
+        "link": "https://simpan.ugm.ac.id/s/3FStTM4P0yTYPuK/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5742861,
+          -7.2316,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5742861,
+        "Lintang": -7.2316,
+        "Foto": 49,
+        "link": "https://simpan.ugm.ac.id/s/tvzRifCgBzX9ptd/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5742861,
+          -7.2316,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5742861,
+        "Lintang": -7.2316,
+        "Foto": 50,
+        "link": "https://simpan.ugm.ac.id/s/O2OqwiJX0BDl7Y6/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5742861,
+          -7.2316,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5742861,
+        "Lintang": -7.2316,
+        "Foto": 51,
+        "link": "https://simpan.ugm.ac.id/s/pgsSlIYnbkgC9Mo/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5742861,
+          -7.2316,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5651889,
+        "Lintang": -7.2352111,
+        "Foto": 52,
+        "link": "https://simpan.ugm.ac.id/s/v934vv8cW6SSRsJ/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5651889,
+          -7.2352111,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.566575,
+        "Lintang": -7.2332917,
+        "Foto": 53,
+        "link": "https://simpan.ugm.ac.id/s/gVGqNYhZJXQb2Z6/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.566575,
+          -7.2332917,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Banjarnegara",
+        "Bujur": 109.5651889,
+        "Lintang": -7.2352111,
+        "Foto": 54,
+        "link": "https://simpan.ugm.ac.id/s/ih5w5ATj2ThhZvl/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5651889,
+          -7.2352111,
+          1.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Bandung",
+        "Bujur": 107.6565139,
+        "Lintang": -6.7246889,
+        "Foto": 55,
+        "link": "https://simpan.ugm.ac.id/s/omok6BVmqmOJ9tE/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6565139,
+          -6.7246889,
+          2.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Bandung",
+        "Bujur": 107.6565139,
+        "Lintang": -6.7246889,
+        "Foto": 56,
+        "link": "https://simpan.ugm.ac.id/s/I3OnKAoKJLWD4I6/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6565139,
+          -6.7246889,
+          2.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Bandung",
+        "Bujur": 107.6563861,
+        "Lintang": -6.7238306,
+        "Foto": 57,
+        "link": "https://simpan.ugm.ac.id/s/LaTHwv64TW7dUUb/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6563861,
+          -6.7238306,
+          2.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Bandung",
+        "Bujur": 107.6563861,
+        "Lintang": -6.7238306,
+        "Foto": 58,
+        "link": "https://simpan.ugm.ac.id/s/if1nmL8IJKMjH1Y/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6563861,
+          -6.7238306,
+          2.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Bandung",
+        "Bujur": 107.6563861,
+        "Lintang": -6.7238306,
+        "Foto": 59,
+        "link": "https://simpan.ugm.ac.id/s/3I1MQSL2yOQpgHb/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6563861,
+          -6.7238306,
+          2.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Bandung",
+        "Bujur": 107.6563861,
+        "Lintang": -6.7238306,
+        "Foto": 60,
+        "link": "https://simpan.ugm.ac.id/s/vizj9HtOb7OSxax/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6563861,
+          -6.7238306,
+          2.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Bandung",
+        "Bujur": 107.6563861,
+        "Lintang": -6.7238306,
+        "Foto": 61,
+        "link": "https://simpan.ugm.ac.id/s/kiLyPsnJjmUFQLl/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6563861,
+          -6.7238306,
+          2.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tempat": "Bandung",
+        "Bujur": 107.6563861,
+        "Lintang": -6.7238306,
+        "Foto": 62,
+        "link": "https://simpan.ugm.ac.id/s/rCPLqjKqPQtNdXq/download"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6563861,
+          -6.7238306,
+          2.0
+        ]
+      }
+    }
+  ]
+}
